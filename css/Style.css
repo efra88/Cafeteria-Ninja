@@ -1,8 +1,32 @@
+html,body{
+  height:100%;
+  width:100%;
+  background-color: #74644D;
+}
 aside{
+ background-color:#A3504C;
+ position:fixed;
+ left: 0;
+ top:0;
+ width:30%;
+ height: 100%;
+}
+aside ul {
+ display:block;
+ margin:10em 3em;
 
 }
+aside nav ul li{
+ color:white;
+ display:block;
+ margin:1em 0;
+}
 footer{
-
+position: fixed;
+bottom: 0;
+height:3em;
+width:100%;
+background-color:#E9EADC;
 }
 
 section.home{
