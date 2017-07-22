@@ -5,5 +5,53 @@ section.location{
 
 }
 section.team{
-
+background-color:#E9EADC;
+}
+.names{
+  font-size: 1em;
+  font-family: serif;
+  font-style: normal;
+  text-align: center;
+}
+[class^="avatar"]{
+  width: 10em;
+  height: 10em;
+margin:0 auto;
+border-radius: 50%;
+overflow: hidden;
+background-image: url(../images/team/img1.jpg);
+background-size: cover;
+background-position: center;
+display: flex;
+justify-content: center;
+}
+.avatar1{
+  background-image: url(../images/team/img1.jpg);
+}
+.avatar2{
+  background-image: url(../images/team/img2.jpg);
+}
+.avatar3{
+  background-image: url(../images/team/img3.gif);
+}
+.avatar4{
+  background-image: url(../images/team/img4.jpg);
+}
+.avatar5{
+  background-image: url(../images/team/img5.gif);
+}
+.avatar6{
+  background-image: url(../images/team/img6.jpg);
+}
+.avatar7{
+  background-image: url(../images/team/img7.jpg);
+}
+.avatar8{
+  background-image: url(../images/team/img8.gif);
+}
+.avatar9{
+background-image: url(../images/team/img9.jpg);
+}
+.avatar10{
+background-image: url(../images/team/img10.jpg);
 }
