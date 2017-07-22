@@ -1,9 +1,35 @@
 section.home{
+  text-align: center;
+}
+section {
+  padding: 2em 0;
+}
+.logo {
+  background-image: url(../images/logo/logo.jpg);
+  background-size: contain;
+  background-position: center;
+  height: 10em;
+  width: 10em;
+  margin: 0 auto;
+}
+ p {
+   font-size: 24px;
+ }
+section.locations{
+  text-align: center;
+}
+
+.lugares {
+  background-image: url(../images/sucursales);
+  background-size: cover;
+  background-position: center;
+  height: 18em;
+  width: 80%;
+  margin: 0 auto;
 
 }
-section.location{
 
-}
+
 section.team{
 
 }
