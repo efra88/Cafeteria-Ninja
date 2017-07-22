@@ -1,14 +1,13 @@
 html,body{
   height:100%;
   width:100%;
-  background-color: #74644D;
 }
 aside{
  background-color:#A3504C;
  position:fixed;
  left: 0;
  top:0;
- width:30%;
+ width:20%;
  height: 100%;
 }
 aside ul {
