@@ -23,7 +23,7 @@ aside nav ul li{
 footer{
 position: fixed;
 bottom: 0;
-height:3em;
+height:8em;
 width:100%;
 background-color:#E9EADC;
 }
@@ -43,7 +43,7 @@ section {
   margin: 0 auto;
 }
  p {
-   font-size: 24px;
+   padding: 1em;
  }
 section.locations{
   text-align: center;
@@ -65,8 +65,6 @@ background-color:#E9EADC;
 }
 .names{
   font-size: 1em;
-  font-family: serif;
-  font-style: normal;
   text-align: center;
 }
 [class^="avatar"]{
@@ -110,4 +108,8 @@ background-image: url(../images/team/img9.jpg);
 }
 .avatar10{
 background-image: url(../images/team/img10.jpg);
+}
+
+.social{
+  padding: 1em;
 }
