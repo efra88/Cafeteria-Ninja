@@ -109,7 +109,9 @@ background-image: url(../images/team/img9.jpg);
 .avatar10{
 background-image: url(../images/team/img10.jpg);
 }
-
-.social{
-  padding: 1em;
+.logofb{
+  height: 2em;
+  width: 2em;
+  background-size: contain;:
+  padding:1em;
 }
