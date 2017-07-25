@@ -23,9 +23,35 @@ aside nav ul li{
 footer{
 position: fixed;
 bottom: 0;
-height:8em;
+height:4em;
 width:100%;
 background-color:#E9EADC;
+padding-bottom: 1em;
+}
+#info{
+width: 50%;
+display: block;
+padding-left: 25px;
+}
+
+#social{
+display: inline-block block;
+width: 50%;
+text-align: right;
+position: absolute;
+padding-right: 32px;
+top: 50%;
+right: 0;
+transform: translateY(-50%);
+}
+#social .fa {
+ margin-left: 0.375emms;
+}
+.fa-twitter {
+color:#5EA9DD;
+}
+.fa-facebook-official {
+color: #3A5795;
 }
 
 section.home{
